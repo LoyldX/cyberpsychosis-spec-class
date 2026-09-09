@@ -1,4 +1,4 @@
-# Feature: <ชื่อฟีเจอร์>
+# Feature: <ประตูสแกนใบหน้า>
 Spec ID: SPEC-<PREFIX>-001 | Source: SRS v<x.y> ข้อ <3.1 ...> | Use case: UC-<xx>
 Owner: <ทีม/คน> | Status: Draft v1 | Updated: <YYYY-MM-DD>
 Depends on: - | Reviewed by: -
